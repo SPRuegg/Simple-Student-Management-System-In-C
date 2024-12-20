@@ -37,7 +37,7 @@ The project should consist of the following files:
 - **Students.txt**: Contains initial data with predefined student records. The format is as follows:
   - `P`: Marks the beginning of a section.
   - `A:ID:Name:Age:Grade`: A record to be added.
-  - `D:ID:Name:Age:Grade`: A record to be deleted.
+  - `D:ID`: A record to be deleted.
   - `S:ID`: Search for a student by ID.
 - **Output.txt**: The output file will contain results from executing the operations (adding, deleting, searching students, and displaying student records).
 
@@ -83,7 +83,7 @@ Simple Student Management System (Project folder)
 ### `Students.txt` Format:
 - `P` to mark the beginning of a section.
 - `A:ID:Name:Age:Grade` for adding a new student record.
-- `D:ID:Name:Age:Grade` for deleting a student record.
+- `D:ID` for deleting a student record.
 - `S:ID` to search for a student by ID.
 
 ### `Output.txt` Format:
