@@ -1,0 +1,27 @@
+P
+A:101:John Doe:20:85.5
+A:102:Jane Smith:22:90.0
+A:103:Emily Johnson:21:88.7
+A:104:Michael Brown:23:91.3
+P
+D:102
+A:105:Chris Lee:19:78.5
+A:106:Alice White:20:92.4
+S:103
+S:107
+A:102:Jane Smith:22:90.0
+T
+P
+D:101
+A:107:David Green:24:75.2
+A:108:Susan Blue:21:89.9
+S:101
+P
+A:-100:Invalid Student:-1:-50.0
+A:102:Jane Smith:22:90.0
+A:109::23:80.0
+A:110:Bad Age Student: -10:85.0
+A:111:OutOfBoundsGrade:22:200.0
+P
+D:999
+S:999
